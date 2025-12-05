@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**hameddev2001-cloud/hameddev2001-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Hamed Hosseini, an aspiring Django developer currently learning **Python** and **Web Development**.  
+My goal is to gain experience through a **remote internship** and eventually grow into a full-time remote developer 🌍.
 
-Here are some ideas to get you started:
+## 🚀 What I'm Learning
+- Python fundamentals and advanced concepts
+- Django framework (models, views, templates, REST APIs)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Goals
+- Secure a remote internship to gain real-world experience
+- Build and share projects to strengthen my portfolio
+- Contribute to open-source communities
+- Work remotely as a professional developer
+
+## 📂 Current Projects
+- Slot Game 🎰 (Python-based project with sound effects)
+- Small Django apps to practice backend development
+- Experimenting with APIs and web integrations
+
+## 📫 Connect
+- GitHub: [github.com/hameddev2001-cloud](https://github.com/hameddev2001-cloud)
