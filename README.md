@@ -19,5 +19,5 @@ My goal is to gain experience through a **remote internship** and eventually gro
 - Experimenting with APIs and web integrations
 
 ## 📫 Connect
-[<img src="https://cdn.simpleicons.org/x/000000" width="24" />](https://x.com/hamedweb)
+Follow me on X: [@hamedweb](https://x.com/hamedweb)
 - GitHub: [github.com/hameddev2001-cloud](https://github.com/hameddev2001-cloud)
