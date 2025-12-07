@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Hamed Hosseini, an aspiring Django developer currently learning **Python** and **Web Development**.  
+I'm Hamed, an aspiring Django developer currently learning **Python** and **Web Development**.  
 My goal is to gain experience through a **remote internship** and eventually grow into a full-time remote developer 🌍.
 
 ## 🚀 What I'm Learning
